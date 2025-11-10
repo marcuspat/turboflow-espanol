@@ -7,7 +7,7 @@ const docLinks = [
     title: "Guía de Aliases de Claude Flow",
     description: "Referencia completa para todos los comandos y aliases de Claude Flow",
     category: "Guías de Configuración",
-    url: "https://github.com/marcuspat/turbo-flow-claude#claude-flow-aliases-guide"
+    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIA_ALIAS_CLAUDE_FLOW_AGENTIC_FLOW.md"
   },
   {
     title: "Configuración macOS/Linux",
@@ -19,13 +19,13 @@ const docLinks = [
     title: "Configuración GitHub Codespaces",
     description: "Guía paso a paso para configurar con GitHub Codespaces",
     category: "Guías de Configuración",
-    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/github_codespaces_setup.md"
+    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIAS_CONFIGURACION_TURBO_FLOW.md"
   },
   {
     title: "Configuración Google Cloud Shell",
     description: "Instrucciones para ejecutar en Google Cloud Shell",
     category: "Guías de Configuración",
-    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/google_cloud_shell_setup.md"
+    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIAS_CONFIGURACION_TURBO_FLOW.md"
   },
   {
     title: "Guía de Configuración de Proveedores DevPod",
@@ -37,7 +37,7 @@ const docLinks = [
     title: "Configuración Rackspace Spot",
     description: "Instrucciones de configuración para Rackspace Spot",
     category: "Guías de Configuración",
-    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/rackspace_spot_setup.md"
+    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIA_SUPERVIVENCIA_RACKSPACE_KUBERNETES.md"
   }
 ];
 

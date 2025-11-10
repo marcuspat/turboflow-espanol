@@ -77,7 +77,15 @@ sudo install devpod /usr/local/bin
             <Card className="p-8 bg-card/50 backdrop-blur-sm border-secondary/30">
               <h3 className="text-2xl font-semibold text-secondary mb-4">Configuración de Rackspace</h3>
               <p className="text-muted-foreground">
-                Instrucciones de configuración para Rackspace Spot y Kubernetes próximamente...
+                Instrucciones de configuración para Rackspace Spot y Kubernetes disponibles en{' '}
+                <a
+                  href="https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIAS_CONFIGURACION_TURBO_FLOW.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:text-blue-800 underline"
+                >
+                  esta guía
+                </a>
               </p>
             </Card>
           </TabsContent>
@@ -86,7 +94,15 @@ sudo install devpod /usr/local/bin
             <Card className="p-8 bg-card/50 backdrop-blur-sm border-primary/30">
               <h3 className="text-2xl font-semibold text-primary mb-4">GitHub Codespaces</h3>
               <p className="text-muted-foreground">
-                Guía paso a paso para configurar con GitHub Codespaces próximamente...
+                Guía paso a paso para configurar con GitHub Codespaces disponible en{' '}
+                <a
+                  href="https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIAS_CONFIGURACION_TURBO_FLOW.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:text-blue-800 underline"
+                >
+                  esta guía
+                </a>
               </p>
             </Card>
           </TabsContent>

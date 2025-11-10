@@ -44,15 +44,21 @@ export const Hero = () => {
             <Button 
               size="lg"
               className="bg-primary/10 hover:bg-primary/20 text-primary border-2 border-primary/50 border-glow-cyan transition-all duration-300 hover:scale-105"
+              asChild
             >
-              <Github className="mr-2 h-5 w-5" />
-              Ver en GitHub
+              <a href="https://github.com/marcuspat/turbo-flow-claude" target="_blank" rel="noopener noreferrer">
+                <Github className="mr-2 h-5 w-5" />
+                Ver en GitHub
+              </a>
             </Button>
             <Button 
               size="lg"
               className="bg-secondary/10 hover:bg-secondary/20 text-secondary border-2 border-secondary/50 border-glow-magenta transition-all duration-300 hover:scale-105"
+              asChild
             >
-              Comenzar
+              <a href="#quick-start">
+                Comenzar
+              </a>
             </Button>
           </div>
 

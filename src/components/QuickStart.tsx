@@ -3,7 +3,7 @@ import { Card } from "@/components/ui/card";
 
 export const QuickStart = () => {
   return (
-    <section className="py-20 px-4 bg-card/30">
+    <section id="quick-start" className="py-20 px-4 bg-card/30">
       <div className="container mx-auto max-w-5xl">
         <div className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">

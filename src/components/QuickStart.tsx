@@ -79,7 +79,7 @@ sudo install devpod /usr/local/bin
               <p className="text-muted-foreground">
                 Instrucciones de configuración para Rackspace Spot y Kubernetes disponibles en{' '}
                 <a
-                  href="https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIAS_CONFIGURACION_TURBO_FLOW.md"
+                  href="https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIA_SUPERVIVENCIA_RACKSPACE_KUBERNETES.md"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 hover:text-blue-800 underline"
@@ -111,7 +111,15 @@ sudo install devpod /usr/local/bin
             <Card className="p-8 bg-card/50 backdrop-blur-sm border-secondary/30">
               <h3 className="text-2xl font-semibold text-secondary mb-4">Google Cloud Shell</h3>
               <p className="text-muted-foreground">
-                Instrucciones para ejecutar en Google Cloud Shell próximamente...
+                Instrucciones para ejecutar en Google Cloud Shell disponibles en{' '}
+                <a
+                  href="https://github.com/marcuspat/turbo-flow-claude/blob/main/GUIAS_CONFIGURACION_TURBO_FLOW.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-600 hover:text-blue-800 underline"
+                >
+                  esta guía
+                </a>
               </p>
             </Card>
           </TabsContent>

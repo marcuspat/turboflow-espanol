@@ -13,7 +13,7 @@ const docLinks = [
     title: "Configuración macOS/Linux",
     description: "Instrucciones de configuración nativa para sistemas macOS y Linux",
     category: "Guías de Configuración",
-    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/macOS_linux_setup.md"
+    url: "https://github.com/marcuspat/turbo-flow-claude/blob/main/macosx_linux_setup.md"
   },
   {
     title: "Configuración GitHub Codespaces",
